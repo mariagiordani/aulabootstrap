@@ -1,3 +1,34 @@
 .navbar {
     background-color:#eea29a;
 }
+.quem-somos{
+    background-color:#FEF9E7;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #6B5D2C;
+}
+.margin {
+    padding: 15px;
+}
+.products {
+    background-color: beige;
+    color: #6B5D2C;
+}
+#produtolaco {
+    margin: 20px;
+}
+#produtoturbante {
+    margin: 20px;
+}
+#clientes {
+    background-color: #FEF9E7;
+    color: #6B5D2C;
+}
+#contato {
+    background-color: beige;
+    color: #6B5D2C;
+}
+.bg-footer{
+    background-color: peachpuff;
+    padding: 5px;
+}
